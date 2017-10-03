@@ -47,7 +47,7 @@ html, body {
 
 // MAIN LOGIN/SIGN UP PAGE
 .main-bg {
-  background-image: url("blue_bg_landscape.gif");
+  background-image: image-url("blue_bg_landscape.gif");
   background-attachment: fixed;
   background-size: cover;
   height: 100%;
@@ -118,7 +118,7 @@ html, body {
 
 // ACCOUNT EDIT PAGE - VIEWS/DEVISE/REGISTRATIONS/EDIT.HTML.ERB
 .edit-accounts-bg {
-  background-image: url("blue_bg_landscape.gif");
+  background-image: image-url("blue_bg_landscape.gif");
   background-attachment: fixed;
   background-size: cover;
   height: 100%;
